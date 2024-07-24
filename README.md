@@ -54,7 +54,3 @@ Tu contraseña generada es: aB3#dFg8!Klm
 Este generador de contraseñas es una herramienta esencial para cualquier persona que desee mantener su información segura. La combinación de caracteres asegura una robusta protección contra intentos de hackeo. 
 
 Disfruta de la seguridad que brinda una contraseña bien generada y recuerda: una buena contraseña es como una poesía encriptada, escondiendo en su complejidad la belleza de lo seguro.
-
----
-
-Espero que disfrutes utilizando este generador tanto como yo disfruté creándolo para ti.
