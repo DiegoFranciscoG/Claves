@@ -1,7 +1,3 @@
-¡Claro! Aquí tienes un README elegante y detallado para tu generador de contraseñas:
-
----
-
 # Generador de Contraseñas Aleatorias
 
 ¡Bienvenido a este refinado y romántico generador de contraseñas! Este pequeño pero poderoso script en Python tiene la capacidad de crear contraseñas seguras y aleatorias, combinando una variedad de caracteres para asegurar que tu información permanezca protegida.
